@@ -15,8 +15,6 @@ The repository contains following files:
 
 ## Data description
 
-To run this project, you will need to add the following environment variables to your .env file
-
 This section is about the `transcoding_mesurment.tsv` dataset:
 
 - `id` video id of the video . 
