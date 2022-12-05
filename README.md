@@ -11,6 +11,7 @@ The repository contains following files:
 - `transcoding_mesurment_vizualisation.ipynb` contains the data analysis of the dataset through plots and the data preprocessing later used in `model_transcoding_mesurment.ipynb`.
 - `image_presentation_python` contains interestings plot save for the ppt .
 - `youtube_videos_vizualisation.ipynb` contain the data vizualisation for the other dataset `youtube_videos.tsv`. 
+- `Python_project_presentation.pptx` contain the presentation of the project. 
 - `README.md` this file 
 
 ## Data description
